@@ -1,0 +1,11 @@
+id,latitude,longitude,weather,road_condition,vehicle_type,speed_limit,light_condition,time_of_day,accident_severity,year,month
+1,28.5172,81.6667,Clear,Dry,Car,50,Daylight,Morning,Minor,2025,3
+2,28.6000,81.6500,Rain,Wet,Truck,50,Dusk,Evening,Serious,2025,3
+3,28.7000,81.6600,Fog,Wet,Bus,40,Darkness,Night,Fatal,2025,3
+4,28.9000,81.7200,Clear,Dry,Car,60,Daylight,Afternoon,Minor,2025,4
+5,29.0500,81.8300,Clear,Dry,Motorcycle,50,Daylight,Afternoon,Serious,2025,4
+6,29.1500,81.9500,Rain,Wet,Car,60,Dusk,Evening,Serious,2025,4
+7,29.2000,82.0500,Clear,Dry,Bus,40,Daylight,Morning,Minor,2025,4
+8,29.2500,82.1200,Snow,Icy,Truck,40,Darkness,Night,Fatal,2025,4
+9,29.2730,82.1830,Fog,Wet,Car,50,Dusk,Evening,Serious,2025,4
+10,29.2730,82.1830,Clear,Dry,Car,60,Daylight,Morning,Minor,2025,5

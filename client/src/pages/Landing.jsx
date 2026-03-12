@@ -110,7 +110,7 @@ export default function Landing() {
       </section>
 
       <footer className="border-t border-slate-800 px-6 py-8 text-center text-slate-500 text-sm">
-        <p>© 2024 AccidentIQ — AI-Based Accident Severity Prediction and Hotspot Detection System</p>
+        <p>© 2026 AccidentIQ — AI-Based Accident Severity Prediction and Hotspot Detection System</p>
       </footer>
     </div>
   );

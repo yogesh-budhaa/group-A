@@ -69,7 +69,6 @@ export default function DataUpload() {
         <div className="flex items-start gap-3">
           <Info size={18} className="text-sky-400 flex-shrink-0 mt-0.5" />
           <div>
-            <p className="text-sm font-semibold text-white mb-2">Required CSV Format</p>
             <code className="text-xs text-sky-300 font-mono block bg-slate-900 p-3 rounded-lg overflow-x-auto">
               {SAMPLE_HEADERS}<br />
               {SAMPLE_ROW}
